@@ -20,11 +20,9 @@ This tutorial outlines the post-install configuration of the open-source help de
 
 <h2>Post-Install Configuration Objectives</h2>
 
-Admin/Analyst Login Page:
-http://localhost/osTicket/scp/login.php 
+Admin/Analyst Login 
 
-End Users osTicket URL:
-http://localhost/osTicket 
+End Users  
 
 Acknowledge Agent Panel vs Admin Panel
 
